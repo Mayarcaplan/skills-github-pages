@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+title: content for homepage
 ---
 
-content for homepage
