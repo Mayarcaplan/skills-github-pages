@@ -1,4 +1,4 @@
 ---
-title: my personal blog
+title: Welcome to my blog
 ---
 
