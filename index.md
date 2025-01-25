@@ -1,4 +1,4 @@
 ---
-title: content for homepage
+title: my personal blog
 ---
 
